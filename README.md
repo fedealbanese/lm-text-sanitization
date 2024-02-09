@@ -4,7 +4,7 @@ Zero-Shot Redaction & Substitution pipeline with Large Language Models.
 
 Paper: Albanese, F; Ciolek, D.; D’Ippolito, N. [Text Sanitization Beyond Specific Domains: Zero-Shot Redaction & Substitution with Large Language Models](https://arxiv.org/pdf/2311.10785.pdf).
 
-[presentation](https://ppai-workshop.github.io/#program) at the PPAI @ AAAI 2024
+[Presentation](https://ppai-workshop.github.io/#program) at the PPAI @ AAAI 2024
 
 ## Abstract:
 
